@@ -5,3 +5,4 @@ Articles about Azure IoT Edge — Microsoft's managed service built on top of Io
 ## Articles
 
 - [How to Reset an IoT Edge Device](./how-to-reset-an-iot-edge-device.md)
+- [How to Change the Hostname of an IoT Edge Device](./how-to-change-iotedge-device-hostname.md)
